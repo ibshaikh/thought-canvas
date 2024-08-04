@@ -45,7 +45,7 @@ const onSubmitHandler = async (e) =>{
       description:"",
       category:"Startup",
       author:"Ibram Shaikh",
-      authorImg:"author.png"
+      authorImg:"/author.png"
     });   
 
   }
